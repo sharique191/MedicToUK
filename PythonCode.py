@@ -3,7 +3,7 @@ import requests
 import json
 
 def change(a):                        # this function uses API to reframe the question
-    key="a35281adb8b0bf2e80679c9cce0d032b"
+    key="a3********************d032b"
     email="drarunavadhar@gmail.com"
     inp=a
     p={"email":email,"key":key,"input":inp,"rewrite_num":1,"uniqueness":1,"return_rewrites":"true"}
